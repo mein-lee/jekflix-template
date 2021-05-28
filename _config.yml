@@ -1,7 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
+name: Binge Read
+title: Binge Read | A Netflix-themed personal blog
+description: Mein Lee's personal website using a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
   - blog
@@ -19,21 +19,24 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: meinlee@berkeley.edu
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
+show_hero: true
+# Amount of post to show per page
+paginate: 12
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
+github_username: mein-lee
+facebook_username: Mein Lee
+twitter_username: meindata
 instagram_username: instagram_username
-linkedin_username: linkedin_username
+linkedin_username: Mein Lee
 medium_username: medium_username
 
 
