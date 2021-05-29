@@ -14,7 +14,7 @@ tags:
   - berkeley
   - software
 author: meinlee
-paginate: true
+paginate: false
 ---
 Build a version control system that mimics Git. Implement the 2048 Game. Generate a 2D tile-based world... Berkeley CS projects really give you something to talk about. 
 
@@ -88,9 +88,13 @@ This project involves writing an interpreter for the Scheme language.
 
 Language: Java
 
+Infamous. Notoriously tough. Unspeakable. Scandalous. Gitlet. 
+
 # **Tile-Based World Generator**
 
 Language: Java
+
+![](/assets/img/uploads/screenshot-2021-05-29-at-9.43.45-pm.png)
 
 Designed and implemented a 2D tile-based world exploration engine. My partner and I built software that generates worlds based on the user's input `seed`. The user will then explore by walking around and interacting with objects in that world from an overhead perspective.
 
@@ -104,13 +108,13 @@ This project definitely piqued my interest in software engineering.
 
 **2048** 
 
-* Project Spec
-* Repository
+* [Project Spec](https://sp21.datastructur.es/materials/proj/proj0/proj0)
+* [](https://sp21.datastructur.es/materials/proj/proj0/proj0)Repository
 
 **Ants vs. Some Bees**
 
-* Project Spec
-* Repository
+* [Project Spec](https://inst.eecs.berkeley.edu/~cs61a/fa20/proj/ants/)
+* [](https://inst.eecs.berkeley.edu/~cs61a/fa20/proj/ants/)Repository
 * PopCap Games' [Plants Vs. Zombies](https://www.ea.com/studios/popcap/plants-vs-zombies)
 
 **Scheme Interpreter**
@@ -120,11 +124,11 @@ This project definitely piqued my interest in software engineering.
 
 **Gitlet**
 
-* Project Spec
+* [Project Spec](https://sp21.datastructur.es/materials/proj/proj2/proj2)
 * Repository
 
 **Tile Based World Generator**
 
 * [Project Spec](https://sp21.datastructur.es/materials/proj/proj3/proj3#introduction)
 * Repository
-* Youtube video walkthrough
+* [Youtube video walkthrough](https://www.youtube.com/watch?v=O4LYj1ILTfU)
