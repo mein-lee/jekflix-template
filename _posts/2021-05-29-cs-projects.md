@@ -3,7 +3,7 @@ date: 2021-05-29 15:57:27
 layout: post
 title: CS Projects
 description: A brief overivew of my CS projects
-category: diet
+category: projects
 tags:
   - CS
   - projects
