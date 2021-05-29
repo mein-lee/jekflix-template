@@ -23,4 +23,30 @@ Build a version control system that mimics Git. Implement the 2048 Game. Generat
 
 But not until they've made you lose sleep, stare at the screen for 8 hours straight (then burst into tears),  desperately beg TAs for guidance during Office Hours, scream at your project partner, develop PTSD......
 
-Despite all that, I've learned *so much* from my CS classes at Cal. It definitely pushed me to my limits. Before taking just two classes (61A&B), I consider myself a pretty bad programmer. Now, I am proud to say that I am a not-so-bad programmer.
+Despite all that, I've learned *so much* from my CS classes at Cal. It definitely pushed me to my limits. Before taking just two classes (61A&B), I considered myself a pretty bad programmer. Now, I am proud to say that I am a not-so-bad programmer.
+
+
+
+# 2048 
+
+Language: Java
+
+![2048 Game Demo](https://sp21.datastructur.es/materials/proj/proj0/img/example-2048.gif "2048 Game Demo")
+
+This game is so addictive that test running it was dangerously distracting. At least I know it works! 
+
+The trickiest part was figuring out how to sum up the tile numbers systematically. Otherwise, it was really neat that we only needed to implement the 'swipe ups'. Swiping left, right and downwards holds the same logic as swiping up, but with different parameters passed into `setViewingPerspective(Side s)`.
+
+[Click Here for Project Spec](https://sp21.datastructur.es/materials/proj/proj0/proj0)
+
+[Click Here for Gif of My Test Run](https://media.giphy.com/media/tRnqwjV2qRtptJnqj6/giphy.gif)
+
+
+
+# Scheme Interpreter
+
+Language: Python
+
+![Scheme interpreter](/assets/img/uploads/hi.png "Scheme interpreter")
+
+This project involves writing an interpreter for the Scheme language.
