@@ -1,7 +1,7 @@
 ---
 date: 2021-05-29 15:57:27
 layout: post
-title: CS Projects
+title: "CS Projects"
 description: A brief overivew of my CS projects
 category: projects
 tags:
@@ -15,6 +15,7 @@ tags:
 author: meinlee
 paginate: false
 ---
+
 Build a version control system that mimics Git. Implement the 2048 Game. Generate a 2D tile-based world... Berkeley CS projects really give you something to brag about. 
 
 But not until they've made you lose sleep, stare at the screen for 8 hours straight (then burst into tears),  desperately beg TAs for guidance during Office Hours, scream at your project partner, develop PTSD......
