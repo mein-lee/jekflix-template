@@ -1,8 +1,9 @@
 ---
-date: 2021-05-29 15:57:27
+date: 2021-05-29 08:57:07
 layout: post
 title: "CS Projects"
-description: A brief overivew of my CS projects
+subtitle: a
+description: b
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
 category: projects
