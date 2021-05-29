@@ -12,12 +12,9 @@ tags:
   - CS
   - projects
   - berkeley
-  - cal
   - software
-  - computer
-  - undergraduate
 author: meinlee
-paginate: false
+paginate: true
 ---
 Build a version control system that mimics Git. Implement the 2048 Game. Generate a 2D tile-based world... Berkeley CS projects really give you something to talk about. 
 
@@ -25,7 +22,7 @@ But not until they've made you lose sleep, stare at the screen for 8 hours strai
 
 Despite all that, I've learned *so much* from my CS classes at Cal. It definitely pushed me to my limits. Before taking just two classes (61A&B), I considered myself a pretty bad programmer. Now, I am proud to say that I am a not-so-bad programmer.
 
-
+Projects ranked from lowest to highest diffculty level. References & Github repositories linked at the very bottom.
 
 # 2048
 
@@ -33,42 +30,19 @@ Language: Java
 
 ![2048 Game Demo](https://sp21.datastructur.es/materials/proj/proj0/img/example-2048.gif "2048 Game Demo")
 
-[This game](https://sp21.datastructur.es/materials/proj/proj0/proj0) is so addictive that test running it was dangerously distracting. At least I know it works! 
+This game is so addictive that test running it was dangerously distracting. GIF of my test run [here](https://media.giphy.com/media/tRnqwjV2qRtptJnqj6/giphy.gif).
 
 The trickiest part was figuring out how to sum up the tile numbers systematically. Otherwise, I only needed to implement the 'swipe ups'. Swiping left, right and downwards holds the same logic as swiping up, but with different parameters passed into `setViewingPerspective(Side s)`. Neat! 
-
-GIF of my test run [here](https://media.giphy.com/media/tRnqwjV2qRtptJnqj6/giphy.gif)
-
-# Scheme Interpreter
-
-Language: Python
-
-![Scheme interpreter](/assets/img/uploads/hi.png "Scheme interpreter")
-
-[This project](https://inst.eecs.berkeley.edu/~cs61a/fa20/proj/scheme/) involves writing an interpreter for the Scheme language. 
-
-* **Read:** Parses user input (a string of Scheme code) into my interpreter's internal Python representation of Scheme expressions (the Pairs class).
-* **Eval:** Evaluates Scheme expressions (represented in Python) according to various rules to obtain values. Mutually recursive functions parse Scheme tokens.
-* **Print**: Prints the `__str__` representation of the obtained value.
-* **Loop**: Reads and evaluates input until EOF or keyboard interrupt
-
-Github repository linked [here](https://github.com/mein-lee/scheme_interpreter)
-
-![My CS Professor thought this was funny, so I figured I'll use it this time](/assets/img/uploads/scheme.png "From the timeless XKCD — https://xkcd.com/297/")
-
-
 
 # Ants vs. SomeBees
 
 Language: Python
 
-![Acknowledgement: CS61A Staff](/assets/img/uploads/plants.png "Acknowledgement: CS61A Staff")
+![Ants vs. SomeBees Banner](/assets/img/uploads/plants.png "Ants vs. SomeBees Banner")
 
 Plants vs. Zombies? Never heard of that. I only know Ants vs. SomeBees. (Don't worry if you don't hear it. I was confused when I first heard it, too. Give it some time).
 
 This is a [tower defense](https://secure.wikimedia.org/wikipedia/en/wiki/Tower_defense) game. As the ant queen, I populate my colony with the bravest ants I can muster. My ants must protect their queen from the evil bees that invade their territory. Irritate the bees enough by throwing leaves at them, and they will be vanquished. Fail to pester the airborne intruders adequately, and the colony will succumb to the bees' wrath. 
-
-Inspired by PopCap Games' [Plants Vs. Zombies](https://www.ea.com/studios/popcap/plants-vs-zombies).
 
 This project combines functional and object-oriented programming paradigms; involves understanding, extending, and testing a large program.
 
@@ -94,3 +68,63 @@ class QueenAnt(ScubaThrower):
             if self.queen_id == 0 and self.armor <= 0:
                 bees_win()
 ```
+
+# Scheme Interpreter
+
+Language: Python
+
+![Scheme interpreter](/assets/img/uploads/hi.png "Scheme interpreter")
+
+This project involves writing an interpreter for the Scheme language. 
+
+* **Read:** Parses user input (a string of Scheme code) into my interpreter's internal Python representation of Scheme expressions (the Pairs class).
+* **Eval:** Evaluates Scheme expressions (represented in Python) according to various rules to obtain values. Mutually recursive functions parse Scheme tokens.
+* **Print**: Prints the `__str__` representation of the obtained value.
+* **Loop**: Reads and evaluates input until EOF or keyboard interrupt
+
+![Scheme joke](/assets/img/uploads/scheme.png "Scheme joke")
+
+# Gitlet
+
+Language: Java
+
+# **Tile-Based World Generator**
+
+Language: Java
+
+Designed and implemented a 2D tile-based world exploration engine. My partner and I built software that generates worlds based on the user's input `seed`. The user will then explore by walking around and interacting with objects in that world from an overhead perspective.
+
+We also added creative mechanisms like lore, game menu, animations, respawning, a "game over" state, etc. 
+
+To me, the most challenging part of this project was not applying data structures or creating algorithms. Unlike other projects where I could code however and whenever I wanted, this project required great teamwork and communication skills among project partners. When faced with varying ideas and perspective inputs, it took a while to achieve cohesion, but the outcome was *so* worth it. Major shoutout to my project buddy Thanh -- we created our own world! 
+
+This project definitely piqued my interest in software engineering. 
+
+# References & Repositories
+
+**2048** 
+
+* Project Spec
+* Repository
+
+**Ants vs. Some Bees**
+
+* Project Spec
+* Repository
+* PopCap Games' [Plants Vs. Zombies](https://www.ea.com/studios/popcap/plants-vs-zombies)
+
+**Scheme Interpreter**
+
+* [Project Spec](https://inst.eecs.berkeley.edu/~cs61a/fa20/proj/scheme/)
+* [Repository](https://github.com/mein-lee/scheme_interpreter)
+
+**Gitlet**
+
+* Project Spec
+* Repository
+
+**Tile Based World Generator**
+
+* [Project Spec](https://sp21.datastructur.es/materials/proj/proj3/proj3#introduction)
+* Repository
+* Youtube video walkthrough
