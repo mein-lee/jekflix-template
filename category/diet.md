@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Projects
+title: Diet
 slug: diet
-description: From Data Visualizations to a 2D tile-based world... Read about it all here
+description: A category for diet related posts.
 ---
