@@ -1,13 +1,8 @@
 ---
 layout: page
-menu: false
-date: 2020-02-27 01:53:59
-title: About Me
-permalink: /about/
-description: About Me
-tags:
-  - about
-  - ""
+Title: About Me
+description: Get to know me
+permalink: /aboutme/
 ---
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Mein Lee" width="250">
 
