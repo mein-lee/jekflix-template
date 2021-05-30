@@ -15,7 +15,7 @@ tags:
   - internships
   - ProServe
 author: meinlee
-paginate: true
+paginate: fals
 ---
 # Coming Soon!
 
