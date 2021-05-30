@@ -11,8 +11,7 @@ category: projects
 tags:
   - CS
   - projects
-  - berkeley
-  - software
+  - Berkeley
 author: meinlee
 paginate: false
 ---
