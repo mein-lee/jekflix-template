@@ -2,7 +2,7 @@
 layout: page
 menu: true
 date: 2021-05-30 14:46:30
-title: About
+title: About Me
 permalink: /about/
 description: Get to know me!
 tags:
@@ -23,7 +23,7 @@ I know a lot can change in the next few years of my life, but I truly enjoy lear
 
 This is one of my favorite quotes. I look at the abundance of opportunities available for me in Cal, academia, extracurricular activities... and I told myself that I should at least give them a shot -- even if I feel unqualified, even if I doubt myself, even if everyone else seems much better at it than me.
 
-I transferred into Cal at the height of the Covid-19 pandemic and spent my first year studying remotely with a 15-hour timezone difference. Within that year, I participated and won in a Hackathon, completed a research project, ran a [small online business](https://earnament.wixsite.com/earnament), secured an on-campus job as a Data Peer Consultant, and scored an Amazon internship.  I am looking forward towards taking more shots in my future semesters
+I transferred into Cal at the height of the Covid-19 pandemic and spent my first year studying remotely with a 15-hour timezone difference. Within that year, I participated and won in a Hackathon, completed a research project, ran a [small online business](https://earnament.wixsite.com/earnament), secured an on-campus job as a Data Peer Consultant, and scored an Amazon internship. I am so glad I took these shots!
 
 My hobbies are binge-watching Netflix, playing tennis, and editing videos. Fun facts about me: I like eating raw garlic, my favorite colors are green and brown, and I am a cat-lover (I watch cat memes all the time). 
 
