@@ -4,13 +4,12 @@ layout: post
 title: The essays that got me into Berkeley
 subtitle: Read my UC application essays here.
 description: Read my UC application essays here.
-image: /assets/img/uploads/uclogo.jpg
-optimized_image: /assets/img/uploads/uclogo.jpg
+image: /assets/img/uploads/uclogo.png
+optimized_image: /assets/img/uploads/uclogo.png
 category: tips
 tags:
   - UC
   - application
-  - Berkeley
   - insights
 author: meinlee
 paginate: false
