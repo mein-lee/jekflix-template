@@ -10,7 +10,6 @@ category: tips
 tags:
   - UC
   - application
-  - Berkeley
   - insights
 author: meinlee
 paginate: false
