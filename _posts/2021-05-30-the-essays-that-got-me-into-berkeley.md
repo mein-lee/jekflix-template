@@ -14,7 +14,7 @@ tags:
 author: meinlee
 paginate: false
 ---
-No matter which essay question you pick, no matter which story you choose to tell, make sure to highlight <u>why your experiences make you a suitable candidate</u>. Most importantly, <u>be yourself</u>.
+No matter which essay question you pick; no matter which story you choose to tell, make sure to highlight <u>why your experiences make you a suitable candidate</u>. Most importantly, <u>be yourself</u>.
 
 <br>
 
