@@ -4,8 +4,8 @@ layout: post
 title: The essays that got me into Berkeley
 subtitle: Read my UC application essays here.
 description: Read my UC application essays here.
-image: null
-optimized_image: null
+image: /assets/img/uploads/uclogo.png
+optimized_image: /assets/img/uploads/img_5066.jpg
 category: tips
 tags:
   - UC
@@ -15,7 +15,7 @@ tags:
 author: meinlee
 paginate: false
 ---
-No matter which essay question you pick, no matter which story you choose to tell, make sure to highlight <u>why your experiences make you a suitable candidate*</u>.* Most importantly, <u>be yourself</u>.
+No matter which essay question you pick, no matter which story you choose to tell, make sure to highlight <u>why your experiences make you a suitable candidate</u>. Most importantly, <u>be yourself</u>.
 
 <br>
 
