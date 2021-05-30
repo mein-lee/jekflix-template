@@ -19,8 +19,3 @@ paginate: false
 ---
 # Coming Soon!
 
-I am still undergoing my internship. I will update this post when I complete it in August. 
-
-Please [sign up for my mailing list](https://meinlee.netlify.app/contact/) to stay updated.
-
-Stay tuned!
