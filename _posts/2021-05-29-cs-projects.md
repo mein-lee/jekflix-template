@@ -4,7 +4,7 @@ layout: post
 title: CS Projects
 subtitle: Brief overview of my CS Projects. Can't say it was a smooth-sailing
   process, but completing them sure made me proud.
-description: "Brief Overview of my CS Projects "
+description: "Build a version control system that mimics Git. Implement the 2048 Game. Generate a 2D tile-based world... Berkeley CS projects really give you something to talk about."
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
 category: projects
