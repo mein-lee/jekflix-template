@@ -1,5 +1,5 @@
 name: Binge Read
-title: Binge Read | A Netflix-themed personal blog
+title: Binge Read | Mein Lee Netflix-themed personal blog
 description: Mein Lee's personal website using a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
@@ -8,6 +8,13 @@ tags:
   - jekyll
   - theme
   - netlify
+  - berkeley
+  - ucberkeley
+  - datascience
+  - swe
+  - aws
+  - netflix
+  - design
 show_hero: true
 menu:
   - title: Home
