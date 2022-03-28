@@ -4,9 +4,9 @@ layout: post
 title: "Data Science Projects"
 subtitle: Brief overview of my Data Science Projects.
 description: We are limited only by our imagination. 
-image:
-optimized_image:
-category: data science
+image: /assets/img/uploads/data.png
+optimized_image: /assets/img/uploads/data.png
+category: datascience
 tags:
 author:
 paginate: false
