@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Projects
-slug: projects
-description: A category for project related posts.
+title: Data Science
+slug: data science
+description: A category for Data Science related posts.
 ---
