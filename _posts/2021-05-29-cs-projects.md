@@ -20,11 +20,13 @@ paginate: false
 Projects ranked from lowest to highest diffculty level. References & Github repositories linked at the very bottom.
 
 <div id="toc_container">
-<p class="toc_title">Table of Contents</p>
+<h2 class="toc_title">Table of Contents</h2>
 <ul class="toc_list">
   <li><a href="#2048">2048</a></li>
   <li><a href="#Ants vs. SomeBees">Ants vs. SomeBees</a></li>
-  <li><a href="#Third_Point_Header">3 Third Point Header</a></li>
+  <li><a href="#Scheme Interpreter">Scheme Interpreter</a></li>
+  <li><a href="#Gitlet">Gitlet</a></li>
+  <li><a href="#Tile-Based World Generator">Tile-Based World Generator</a></li>
 </ul>
 </div>
 
