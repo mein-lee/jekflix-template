@@ -17,7 +17,7 @@ tags:
 author: meinlee
 paginate: false
 ---
-Projects ranked from lowest to highest diffculty level. References & Github repositories linked at the very bottom.
+Projects ranked from lowest to highest diffculty level.
 
 <div id="toc_container">
 <h2 class="toc_title">Table of Contents</h2>
@@ -27,6 +27,7 @@ Projects ranked from lowest to highest diffculty level. References & Github repo
   <li><a href="#Scheme Interpreter">Scheme Interpreter</a></li>
   <li><a href="#Gitlet">Gitlet</a></li>
   <li><a href="#Tile-Based World Generator">Tile-Based World Generator</a></li>
+  <li><a href="#References & Repositories">References & Github Repositories</a></li>
 </ul>
 </div>
 
