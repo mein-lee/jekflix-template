@@ -16,8 +16,6 @@ paginate: false
 ---
 No matter which essay question you pick; no matter which story you choose to tell, make sure to highlight <u>why your experiences make you a suitable candidate</u>. Most importantly, <u>be yourself</u>.
 
-<br>
-
 ### Please describe how you have prepared for your intended major, including your readiness to succeed in your upper-division courses once you enroll at the university.
 
 It all started with a pile of clothes in my closet. Nobody liked them, not even me -- I had either outgrown or grew bored of them. I soon realized I had to get rid of it. As an eight grader who wasn’t drowning in assignments and college applications and whose only source of income was my pocket-money, I started posting pictures of my used clothes on second-hand sales apps. Within an hour, my phone started buzzing. It was my first buyer.
