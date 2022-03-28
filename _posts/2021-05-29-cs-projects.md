@@ -3,10 +3,8 @@ date: 2021-05-29 08:57:07
 layout: post
 title: CS Projects
 subtitle: Brief overview of my CS Projects. Can't say it was a smooth-sailing
-  process, but completing them sure made me proud.
-description: "Build a version control system that mimics Git. Implement the 2048 Game. Generate a 2D tile-based world... 
-
-Berkeley CS projects really give you something to talk about."
+  process, but completing them made me proud.
+description: "Build a version control system that mimics Git. Implement the 2048 Game. Generate a 2D tile-based world...<br></br><br></br> Berkeley CS projects really give you something to talk about."
 image: /assets/img/uploads/code.jpeg
 optimized_image: /assets/img/uploads/code.jpeg
 category: projects
