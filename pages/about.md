@@ -15,7 +15,7 @@ tags:
 
 # About Me
 
-Hello! My name is Mein Lee and I was born and raised in Malaysia. I currently pursue a Bachelor's in Data Science with an emphasis in Applied Math & Modelling, and a minor in Demography at the University of California, Berkeley (Cal). Following my graduation in Fall 2022, I plan to work in the entertaintment industry -- contributing my skills in data science, analytics, and machine learning! After that, who know's -- maybe I will enroll in a graduate program. The big question is: Is a Master's degree in Data Science worth it? Let me know what you think! 
+Hello! My name is Mein Lee and I was born and raised in Malaysia. I currently pursue a Bachelor's degree in Data Science with an emphasis in Applied Math & Modelling, and a minor in Demography at the University of California, Berkeley (Cal). Following my graduation in Fall 2022, I plan to work in the entertaintment industry -- contributing my skills in data science, analytics, and machine learning! After that, who know's -- maybe I will enroll in a graduate program. The big question is: Is a Master's degree in Data Science worth it? Let me know what you think! 
 
 I know a lot can change in the next few years of my life, but I truly enjoy learning and hope to never stop seeking new learning opportunities.
 
