@@ -25,7 +25,7 @@ Projects ranked from lowest to highest diffculty level. References & Github repo
 
 # 2048
 
-Language: Java
+<b>Language: Java</b>
 
 ![2048 Game Demo](https://sp21.datastructur.es/materials/proj/proj0/img/example-2048.gif "2048 Game Demo")
 
@@ -35,7 +35,7 @@ The trickiest part was figuring out how to sum up the tile numbers systematicall
 
 # Ants vs. SomeBees
 
-Language: Python
+<b>Language: Python</b>
 
 ![Ants vs. SomeBees Banner](/assets/img/uploads/plants.png "Ants vs. SomeBees Banner")
 
@@ -70,7 +70,7 @@ class QueenAnt(ScubaThrower):
 
 # Scheme Interpreter
 
-Language: Python
+<b>Language: Python</b>
 
 ![Scheme interpreter](/assets/img/uploads/hi.png "Scheme interpreter")
 
@@ -85,21 +85,38 @@ This project involves writing an interpreter for the Scheme language.
 
 # Gitlet
 
-Language: Java
+<b>Language: Java</b>
 
-Infamous. Notoriously tough. Unspeakable. Scandalous. Gitlet. 
+![Gitlet](/assets/img/uploads/gitlet.png "Gitlet")
+
+The infamous Gitlet! Notoriously known as the toughest project in CS61B (Data Structures).
+
+This project implements a simpler version of the popular version-control system, Git.
+
+The main functionalities that Gitlet support are:
+
+**Init, Add, Remove, Commit, Checkout, Log, Branch, Reset, Merge**
+
+Below are the Data Structures and Algorithms that I used to implement Gitlet:
+
+**ArrayLists:** To link consecutive branches
+**Depth-first Search (DFS):** To traverse branches for checking out or merging purposes
+**HashMaps:** To store the unique SHA-1 id of each commit 
+**Files:** To store the files of each commit
+**Trees and Blobs:** To store files and file contents
+**Serialization:** Serialize file contents as to not lose the state of my program across multiple runs (Persistence)
 
 # **Tile-Based World Generator**
 
-Language: Java
+<b>Language: Java</b>
 
 ![](/assets/img/uploads/screenshot-2021-05-29-at-9.43.45-pm.png)
 
-Designed and implemented a 2D tile-based world exploration engine. My partner and I built software that generates worlds based on the user's input `seed`. The user will then explore by walking around and interacting with objects in that world from an overhead perspective.
+My partner and I designed and implemented a 2D tile-based world exploration engine. We built software that generates worlds based on the user's input `seed`. The user will then explore by walking around and interacting with objects in that world from an overhead perspective.
 
-We also added creative mechanisms like lore, game menu, animations, respawning, a "game over" state, etc. 
+We also added creative mechanisms such as game menu, animations, respawning, a "game over" state, etc. 
 
-To me, the most challenging part of this project was not applying data structures or creating algorithms. Unlike other projects where I could code however and whenever I wanted, this project required great teamwork and communication skills among project partners. When faced with varying ideas and perspective inputs, it took a while to achieve cohesion, but the outcome was *so* worth it. Major shoutout to my project buddy Thanh -- we created our own world! 
+Personally, the most challenging part of this project was not applying data structures or creating algorithms. Unlike other projects where I could code however and whenever I wanted, this project required great teamwork and communication skills among project partners. When faced with varying ideas and perspective inputs, it took a while to achieve cohesion, but the outcome was *so* worth it. Major shoutout to my project buddy Thanh -- we created our own world! :)
 
 This project definitely piqued my interest in software engineering. 
 
