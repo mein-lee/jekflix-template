@@ -35,8 +35,8 @@ Fear. That's what I felt before, during, and I am still undergoing my internship
 
 # Reinforcement Learning for Autonomous Vehicle Simulation
 
-![Racing League]
-<iframe src="https://giphy.com/embed/5ii9DbQkcdCSnt52VG" width="480" height="458" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5ii9DbQkcdCSnt52VG">via GIPHY</a></p>
+![Racing League](https://giphy.com/embed/5ii9DbQkcdCSnt52VG)
+
 
 
 
