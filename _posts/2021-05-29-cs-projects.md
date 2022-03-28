@@ -16,7 +16,6 @@ author: meinlee
 paginate: false
 ---
 Projects ranked from lowest to highest diffculty level.
-
 <div id="toc_container">
 <h2 class="toc_title">Table of Contents</h2>
 <ul class="toc_list">
@@ -31,9 +30,9 @@ Projects ranked from lowest to highest diffculty level.
 
 Build a version control system that mimics Git. Implement the 2048 Game. Generate a 2D tile-based world... Berkeley CS projects really give you something to talk about. 
 
-But not until they've made you lose sleep, stare at the screen for 8 hours straight (then burst into tears),  desperately beg TAs for guidance during Office Hours, scream at your project partner, develop PTSD......
+But not until they've made you lose sleep, stare at the screen for 8 hours straight (then burst into tears),  desperately beg TAs for guidance during Office Hours, lose hair, develop PTSD......
 
-Despite all that, I've learned *so much* from my CS classes at Cal. It definitely pushed me to my limits. Before taking just two classes (61A&B), I considered myself a pretty bad programmer. Now, I am proud to say that I am a not-so-bad programmer.
+Despite all that, I've learned *so much* from my CS classes at Cal. It definitely pushed me to my limits. Before taking just two CS classes (61A&B), I considered myself a pretty bad programmer. Now, I am proud to say that I am a not-so-bad programmer.
 
 # 2048
 
@@ -108,12 +107,12 @@ The main functionalities that Gitlet support are **Init, Add, Remove, Commit, Ch
 
 Below are the Data Structures and Algorithms that I used to implement Gitlet:
 
-**ArrayLists:** To link consecutive branches
-**Depth-first Search (DFS):** To traverse branches for checking out or merging purposes
-**HashMaps:** To store the unique SHA-1 id of each commit 
-**Files:** To store the files of each commit
-**Trees and Blobs:** To store files and file contents
-**Serialization:** Serialize file contents as to not lose the state of my program across multiple runs (Persistence)
+* **ArrayLists:** To link consecutive branches
+* **Depth-first Search (DFS):** To traverse branches for checking out or merging purposes
+* **HashMaps:** To store the unique SHA-1 id of each commit 
+* **Files:** To store the files of each commit
+* **Trees and Blobs:** To store files and file contents
+* **Serialization:** Serialize file contents as to not lose the state of my program across multiple runs (Persistence)
 
 # **Tile-Based World Generator**
 
@@ -125,9 +124,9 @@ My partner and I designed and implemented a 2D tile-based world exploration engi
 
 We also added creative mechanisms such as game menu, animations, respawning, a "game over" state, etc. 
 
-Personally, the most challenging part of this project was not applying data structures or creating algorithms. Unlike other projects where I could code however and whenever I wanted, this project required great teamwork and communication skills among project partners. When faced with varying ideas and perspective inputs, it took a while to achieve cohesion, but the outcome was *so* worth it. Major shoutout to my project buddy Thanh -- we created our own world! :)
+Personally, the most challenging part of this project was not applying data structures or creating algorithms. Unlike other projects where I could code however and whenever I wanted, this project required great teamwork and communication skills among project partners. When faced with varying ideas and perspective inputs, it took a while to achieve cohesion, but the outcome was *so* worth it. Major shoutout to my project buddy Thanh<a>https://www.linkedin.com/in/thanh--tran/</a> -- we created our own world! :)
 
-This project definitely piqued my interest in software engineering. 
+This project piqued my interest in software engineering. 
 
 # References & Repositories
 
