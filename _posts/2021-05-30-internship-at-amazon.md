@@ -4,8 +4,12 @@ layout: post
 title: Internship at Amazon Web Services 
 subtitle: Overview of my 3-Month remote internship with AWS
 description: Overview of my 3-Month remote internship with AWS
-image: /assets/img/uploads/aws.jpeg
-optimized_image: /assets/img/uploads/aws.jpeg
+image: <img src="/assets/img/uploads/aws.jpeg" 
+     width="1200" 
+     height="600" />
+optimized_image: <img src="/assets/img/uploads/aws.jpeg" 
+     width="1200" 
+     height="600" />
 category: internships
 tags:
   - Amazon
