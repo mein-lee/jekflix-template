@@ -124,9 +124,7 @@ My partner and I designed and implemented a 2D tile-based world exploration engi
 
 We also added creative mechanisms such as game menu, animations, respawning, a "game over" state, etc. 
 
-Personally, the most challenging part of this project was not applying data structures or creating algorithms. Unlike other projects where I could code however and whenever I wanted, this project required great teamwork and communication skills among project partners. When faced with varying ideas and perspective inputs, it took a while to achieve cohesion, but the outcome was *so* worth it. Major shoutout to my project buddy Thanh<a>https://www.linkedin.com/in/thanh--tran/</a> -- we created our own world! :)
-
-This project piqued my interest in software engineering. 
+Personally, the most challenging part of this project was not applying data structures or creating algorithms. Unlike other projects where I could code however and whenever I wanted, this project required great teamwork and communication skills among project partners. When faced with varying ideas and perspective inputs, it took a while to achieve cohesion, but the outcome was *so* worth it. Major shoutout to my project buddy <a href="https://www.linkedin.com/in/thanh--tran/">Thanh</a> -- we created our own world! :)
 
 # References & Repositories
 
