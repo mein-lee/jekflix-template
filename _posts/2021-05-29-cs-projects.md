@@ -92,10 +92,7 @@ This project involves writing an interpreter for the Scheme language.
 The infamous Gitlet! Notoriously known as the toughest project in CS61B (Data Structures).
 
 This project implements a simpler version of the popular version-control system, Git.
-
-The main functionalities that Gitlet support are:
-
-**Init, Add, Remove, Commit, Checkout, Log, Branch, Reset, Merge**
+The main functionalities that Gitlet support are **Init, Add, Remove, Commit, Checkout, Log, Branch, Reset, Merge**
 
 Below are the Data Structures and Algorithms that I used to implement Gitlet:
 
