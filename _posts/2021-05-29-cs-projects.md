@@ -17,6 +17,24 @@ tags:
 author: meinlee
 paginate: false
 ---
+
+#toc_container {
+background: #f9f9f9 none repeat scroll 0 0;
+border: 1px solid #aaa;
+display: table;
+font-size: 85%;
+margin-bottom: 1em;
+padding: 20px;
+width: auto;
+}
+.toc_title {
+font-weight: 700;
+text-align: center;
+}
+#toc_container li, #toc_container ul, #toc_container ul li{
+list-style: outside none none !important;
+}
+
 Build a version control system that mimics Git. Implement the 2048 Game. Generate a 2D tile-based world... Berkeley CS projects really give you something to talk about. 
 
 But not until they've made you lose sleep, stare at the screen for 8 hours straight (then burst into tears),  desperately beg TAs for guidance during Office Hours, scream at your project partner, develop PTSD......
