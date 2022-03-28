@@ -1,11 +1,11 @@
 ---
 date: 2021-05-30 11:06:42
 layout: post
-title: Internship at Amazon
-subtitle: Overview of my 3-Month remote internship with AWS Malaysia.
-description: Overview of my 3-Month remote internship with AWS Malaysia.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
+title: Internship at Amazon Web Services 
+subtitle: Overview of my 3-Month remote internship with AWS
+description: Overview of my 3-Month remote internship with AWS
+image: /assets/img/uploads/aws.jpeg
+optimized_image: /assets/img/uploads/aws.jpeg
 category: internships
 tags:
   - Amazon
@@ -14,9 +14,30 @@ tags:
 author: meinlee
 paginate: false
 ---
-# Coming Soon!
 
-I am still undergoing my internship. I will update this post when I complete it in August. 
+> ##### Failure is a feeling long before it becomes an actual result. It's vulnerability that breeds with self-doubt and then is escalated, often deliberately, by fear.
+> ###### Michelle Obama
+
+<div id="toc_container">
+<h2 class="toc_title">Highlighted Projects</h2>
+<ul class="toc_list">
+   <li><a href="#Reinforcement Learning for Autonomous Vehicle Simulation">Reinforcement Learning for Autonomous Vehicle Simulation</a></li>
+  <li><a href="#NLP Automation">NLP Automation</a></li>
+  <li><a href="#Cloud Practioner Certification">Gitlet</a></li>
+  <li><a href="#Recommendation Engine Research">Scheme Interpreter</a></li>
+  <li><a href="#Gitlet">Gitlet</a></li>
+  <li><a href="#Tile-Based World Generator">Tile-Based World Generator</a></li>
+  <li><a href="#References & Repositories">References & Github Repositories</a></li>
+</ul>
+</div>
+
+Fear. That's what I felt before, during, and I am still undergoing my internship. I will update this post when I complete it in August. 
+
+# Reinforcement Learning for Autonomous Vehicle Simulation
+
+![Racing League](/assets/img/uploads/cropauto.mp4 "Racing League")
+
+
 
 Please [sign up for my mailing list](https://meinlee.netlify.app/contact/) to stay updated.
 
