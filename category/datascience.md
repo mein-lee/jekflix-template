@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Data Science
-slug: data science
+slug: datascience
 description: A category for Data Science related posts.
 ---
