@@ -25,7 +25,7 @@ This is one of my favorite quotes. I look at the abundance of opportunities avai
 
 I transferred into Cal at the height of the Covid-19 pandemic and spent my first year studying remotely with a 15-hour timezone difference. Within the same year, I participated in and won a Hackathon, completed a research project, ran a [small online business](https://earnament.wixsite.com/earnament), secured an on-campus job as a Data Peer Consultant, and scored an Amazon internship. I am so glad I took these shots!
 
-My hobbies are binge-watching Netflix, playing tennis, and editing videos. Fun facts about me: I like eating raw garlic, my favorite colors are green and brown, and I am a cat-lover (I watch cat memes all the time). 
+My hobbies are binge-watching Netflix, playing tennis, and editing videos. Fun facts about me: I speak three languages, can recite the alphabet backwards within 20 seconds, and have traveled to 4/7 continents. Also, I love cats. 
 
 To get to know me better, *Binge Read* my blog! You can also add my socials which are all linked at the bottom of each page.
 
