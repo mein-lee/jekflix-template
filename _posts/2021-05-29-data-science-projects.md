@@ -6,7 +6,7 @@ subtitle: Brief overview of my Data Science Projects.
 description: We are limited only by our imagination. 
 image:
 optimized_image:
-category: projects
+category: data science
 tags:
 author:
 paginate: false
