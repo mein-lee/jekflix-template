@@ -1,5 +1,5 @@
 ---
-date: 2021-05-31 13:19:29
+date: 2021-05-30 13:19:29
 layout: post
 title: Data Analytics and Machine Learning at my small business
 subtitle: Launched my small business during Covid-19 lockdown
