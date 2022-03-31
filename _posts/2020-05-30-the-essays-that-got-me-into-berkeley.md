@@ -8,9 +8,6 @@ image: /assets/img/uploads/uclogo.png
 optimized_image: /assets/img/uploads/uclogo.png
 category: tips
 tags:
-  - UC
-  - application
-  - insights
 author: meinlee
 paginate: false
 ---
