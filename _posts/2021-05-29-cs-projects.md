@@ -1,5 +1,5 @@
 ---
-date: 2021-05-29 08:57:07
+date: 2021-12-29 08:57:07
 layout: post
 title: CS Projects
 subtitle: Brief overview of my CS Projects. Can't say it was a smooth-sailing
