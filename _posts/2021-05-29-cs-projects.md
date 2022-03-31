@@ -9,9 +9,6 @@ image: /assets/img/uploads/code.jpeg
 optimized_image: /assets/img/uploads/code.jpeg
 category: SWE
 tags:
-  - CS
-  - projects
-  - Berkeley
 author: meinlee
 paginate: false
 ---
