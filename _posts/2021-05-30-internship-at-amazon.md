@@ -8,15 +8,9 @@ image: /assets/img/uploads/aws.jpeg
 optimized_image: /assets/img/uploads/aws.jpeg
 category: internships
 tags:
-  - Amazon
-  - AWS
-  - internship
 author: meinlee
 paginate: false
 ---
-
-> ##### Failure is a feeling long before it becomes an actual result. It's vulnerability that breeds with self-doubt and then is escalated, often deliberately, by fear.
-> ###### Michelle Obama
 
 <div id="toc_container">
 <h2 class="toc_title">Highlighted Projects</h2>
@@ -28,9 +22,7 @@ paginate: false
 </ul>
 </div>
 
-Fear. That's what I felt before, during, and I am still undergoing my internship. I will update this post when I complete it in August. 
-
-# Reinforcement Learning for Autonomous Vehicle Simulation
+<h1 id="Reinforcement Learning for Autonomous Vehicle Simulation">Reinforcement Learning for Autonomous Vehicle Simulation</h1>
 
 ![Racing League](/assets/img/uploads/giphy_car.gif "Racing League")
 
@@ -40,7 +32,7 @@ AWS DeepRacer is a way of using Reinforcement Learning, an advanced machine lear
 
 Then, I participated in the intern league, where Amazon interns from all over the world submit their trained autonomous vehicles to compete in three simulated races. My simulated vehicle and I proudly represented team Malaysia as we ranked top 10 in the final round. 
 
-# NLP Automation
+<h1 id="NLP Automation">NLP Automation</h1>
 
 ![AWS Automation](/assets/img/uploads/automation.png "AWS Automation")
 
@@ -57,11 +49,27 @@ The end product for my automation only requires one button click, automatically 
 
 I am incredibly grateful for my mentors, manager, fellow interns, and the sea of documentations that helped me achieve this. 
 
-# Cloud Practioner Certification
+<h1 id="Cloud Practioner Certification">Cloud Practioner Certification</h1>
 
-# Recommendation Engine Research
+![CCP](/assets/img/uploads/cert.png "CCP")
 
+I read AWS Whitepapers and worked through practice exams on TutorialsDojo to study for the certification. I also made sure to familiarize myself with AWS resources by having hands-on experience with the tools, simultaneously learning how to build my NLP automation. 
 
-Please [sign up for my mailing list](https://meinlee.netlify.app/contact/) to stay updated.
+As an AWS employee, I was very fortunate to have the certification costs reimbursed, but that did not take away the anxiety for the test. After over a month of preparation, I finally took the test... and I aced it (thankfully!). The hands-on experience was an overkill since theoretical knowledge is sufficient for the Cloud Practitioner Certification, but it did not hurt to have more experience!
 
-Stay tuned!
+Despite taking a longer time than intended to earn the certification (Some interns took the certification within their first two weeks!), I am proud of myself for overcoming the intimidation of learning a new technology. 
+
+<h1 id="Recommendation Engine Research">Recommendation Engine Research</h1>
+
+This was a research project for an AI/ML Consultant at AWS. I linked my research in another blogpost -- check it out here!
+
+<h1 id="That's all!">That's all!</h1>
+
+Overall, I learned so much cloud computing knowledge from my internship, and met many amazing people. The Leadership Principles that I have learned through the Amazonian experience have guided me to this day and will continue to benefit me in the future. (LPs are must-knows not just in Amazon interviews, but throughout your internship and career!)
+
+As the first intern cohort of AWS Malaysia, I am proud to have set the bar for future interns. My only feedback is that it could have been a more structured program. For example, a planned out 3-month project for the interns with set guidelines and expectations. Regardless, the support and mentorship that I have received was phenomenal! Everyone works hard to be the best leaders in their role, but also geniunely wants to see each other succeed. 
+
+That is all! If you would like to learn more about what I worked on during my internship, or would like to talk about anything else, please reach out to me!
+
+[Sign up for my mailing list](https://meinlee.netlify.app/contact/) to stay updated.
+
