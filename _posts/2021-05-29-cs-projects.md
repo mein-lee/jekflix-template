@@ -24,7 +24,7 @@ Projects ranked from lowest to highest diffculty level.
   <li><a href="#Scheme Interpreter">Scheme Interpreter</a></li>
   <li><a href="#Gitlet">Gitlet</a></li>
   <li><a href="#Tile-Based World Generator">Tile-Based World Generator</a></li>
-  <li><a href="#References & Repositories">References & Github Repositories</a></li>
+  <li><a href="#References & Repositories">References & Repositories</a></li>
 </ul>
 </div>
 
@@ -43,6 +43,8 @@ Despite all that, I've learned *so much* from my CS classes at Cal. It definitel
 This game is so addictive that test running it was dangerously distracting. GIF of my test run [here](https://media.giphy.com/media/tRnqwjV2qRtptJnqj6/giphy.gif).
 
 The trickiest part was figuring out how to sum up the tile numbers systematically. Otherwise, I only needed to implement the 'swipe ups'. Swiping left, right and downwards holds the same logic as swiping up, but with different parameters passed into `setViewingPerspective(Side s)`. Neat! 
+
+<h1 id="Ants vs. SomeBees"></h1>
 
 # Ants vs. SomeBees
 
@@ -78,6 +80,7 @@ class QueenAnt(ScubaThrower):
             if self.queen_id == 0 and self.armor <= 0:
                 bees_win()
 ```
+<h1 id="Scheme Interpreter"></h1> 
 
 # Scheme Interpreter
 
@@ -93,6 +96,8 @@ This project involves writing an interpreter for the Scheme language.
 * **Loop**: Reads and evaluates input until EOF or keyboard interrupt
 
 ![Scheme joke](/assets/img/uploads/scheme.png "Scheme joke")
+
+<h1 id="Gitlet"></h1> 
 
 # Gitlet
 
@@ -114,6 +119,8 @@ Below are the Data Structures and Algorithms that I used to implement Gitlet:
 * **Trees and Blobs:** To store files and file contents
 * **Serialization:** Serialize file contents as to not lose the state of my program across multiple runs (Persistence)
 
+<h1 id="Tile-Based World Generator"></h1> 
+
 # **Tile-Based World Generator**
 
 <b>Language: Java</b>
@@ -126,6 +133,8 @@ We also added creative mechanisms such as game menu, animations, respawning, a "
 
 Personally, the most challenging part of this project was not applying data structures or creating algorithms. Unlike other projects where I could code however and whenever I wanted, this project required great teamwork and communication skills among project partners. When faced with varying ideas and perspective inputs, it took a while to achieve cohesion, but the outcome was *so* worth it. Major shoutout to my project buddy <a href="https://www.linkedin.com/in/thanh--tran/">Thanh</a> -- we created our own world! :)
 
+<h1 id="References & Repositories"></h1>
+
 # References & Repositories
 
 **2048** 
@@ -137,7 +146,7 @@ Personally, the most challenging part of this project was not applying data stru
 
 * [Project Spec](https://inst.eecs.berkeley.edu/~cs61a/fa20/proj/ants/)
 * [](https://inst.eecs.berkeley.edu/~cs61a/fa20/proj/ants/)Repository
-* PopCap Games' [Plants Vs. Zombies](https://www.ea.com/studios/popcap/plants-vs-zombies)
+* [PopCap Games' Plants Vs. Zombies](https://www.ea.com/studios/popcap/plants-vs-zombies)
 
 **Scheme Interpreter**
 
