@@ -55,7 +55,7 @@ I am incredibly grateful for my mentors, manager, fellow interns, and the sea of
 
 I read AWS Whitepapers and worked through practice exams on TutorialsDojo to study for the certification. I also made sure to familiarize myself with AWS resources by having hands-on experience with the tools, simultaneously learning how to build my NLP automation. 
 
-As an AWS employee, I was very fortunate to have the certification costs reimbursed, but that did not take away the anxiety for the test. After over a month of preparation, I finally took the test... and I aced it (thankfully!). The hands-on experience was an overkill since theoretical knowledge is sufficient for the Cloud Practitioner Certification, but it did not hurt to have more experience!
+As an AWS employee, I was very fortunate to have the certification costs reimbursed, but that did not take away my anxiety for the test. After over a month of preparation, I finally took the test... and I aced it (thankfully!). The hands-on experience was an overkill since theoretical knowledge is sufficient for the Cloud Practitioner Certification, but it did not hurt to have more experience!
 
 Despite taking a longer time than intended to earn the certification (Some interns took the certification within their first two weeks!), I am proud of myself for overcoming the intimidation of learning a new technology. 
 
