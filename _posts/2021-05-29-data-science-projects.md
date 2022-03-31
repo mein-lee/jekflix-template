@@ -1,8 +1,8 @@
 ---
 date: 2020-10-29 08:57:37
 layout: post
-title: "Data Science Projects"
-subtitle: Brief overview of my Data Science Projects.
+title: "Data Science & Analytics Projects"
+subtitle: Brief overview of my Data Science & Analytics Projects.
 description: How I told stories with numbers
 image: /assets/img/uploads/data.png
 optimized_image: /assets/img/uploads/data.png
