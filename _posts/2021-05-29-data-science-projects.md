@@ -25,3 +25,7 @@ paginate: false
 
 <h1 id="Small Business">Reinforcement Learning for Autonomous Vehicle Simulation</h1>
 -->
+
+# Lots of Exciting Content coming soon! 
+
+If you would like to be notified on updates, <a href="https://meinlee.netlify.app/contact/">sign up for my mailing list here!</a> 
