@@ -4,8 +4,8 @@ layout: post
 title: Data Analytics and Machine Learning at my small business
 subtitle: Launched my small business during Covid-19 lockdown
 description: I launched my small business during Covid-19 lockdown and started collecting consumer data
-image: /assets/img/uploads/chess.jpg
-optimized_image: /assets/img/uploads/chess.jpg
+image: /assets/img/uploads/smallbiz.jpeg
+optimized_image: /assets/img/uploads/smallbiz.jpeg
 category: datascience
 tags:
 author: meinlee
