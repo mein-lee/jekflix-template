@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Diet
-slug: diet
-description: A category for diet related posts.
+title: Consulting
+slug: consulting
+description: A category for consulting related posts.
 ---
