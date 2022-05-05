@@ -44,6 +44,8 @@ In order find better features for my model, I used Regex to clear redundant word
 
 <h2 id="Piazza (Discussion forum) questions">Piazza (Discussion forum) questions</h2>
 
+![image](https://user-images.githubusercontent.com/73072620/166869512-4e712df2-1952-4d7f-8acd-dcedb301e133.png)
+
 My team and I attended a 1-day Hackathon that was hosted by the UC Berkeley School of Information and sponsored by Atlassian. We identified professors' pain points in online learning and presented a coded POC consisting of machine learning predictions and a dashboard of a full-stack web app.
 
 <b>Scraping, Cleaning, and Training Data</b>
