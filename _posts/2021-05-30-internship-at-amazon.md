@@ -17,22 +17,22 @@ paginate: false
 <ul class="toc_list">
    <li><a href="#Reinforcement Learning for Autonomous Vehicle Simulation">Reinforcement Learning for Autonomous Vehicle Simulation</a></li>
   <li><a href="#NLP Automation">NLP Automation</a></li>
-  <li><a href="#Cloud Practioner Certification">Gitlet</a></li>
-  <li><a href="#Recommendation Engine Research">Scheme Interpreter</a></li>
+  <li><a href="#Cloud Practioner Certification">Cloud Practioner Certification</a></li>
+  <li><a href="#Recommendation Engine Research">Recommendation Engine Research</a></li>
 </ul>
 </div>
 
-<h1 id="Reinforcement Learning for Autonomous Vehicle Simulation">Reinforcement Learning for Autonomous Vehicle Simulation</h1>
+<h2 id="Reinforcement Learning for Autonomous Vehicle Simulation">Reinforcement Learning for Autonomous Vehicle Simulation</h2>
 
 ![Racing League](/assets/img/uploads/giphy_car.gif "Racing League")
 
 That's my (simulated) car! See how smoothly it manuevers each turn? I coded that!!! :)
 
-AWS DeepRacer is a way of using Reinforcement Learning, an advanced machine learning technique, to train models. I coded a reward function, fed it to a model, and trained it for 10+ hours to recorgize turning angles, avoid going off-track, find the apex of a turn, and optimize speed. I learned to read patterns from each training iteration and made changes to my model that will help my autonomous vehicle manuever more smoothly. 
+AWS DeepRacer is a way of using Reinforcement Learning, an advanced machine learning technique, to train models. I coded a reward function that penalizes oe incentivizes vehicle action, fed it to a model, and trained it for 10+ hours to recorgize turning angles, avoid going off-track, find the apex of a turn, and optimize speed. I learned to read patterns from each training iteration and made changes to my model that will help my autonomous vehicle manuever more smoothly. 
 
 Then, I participated in the intern league, where Amazon interns from all over the world submit their trained autonomous vehicles to compete in three simulated races. My simulated vehicle and I proudly represented team Malaysia as we ranked top 10 in the final round. 
 
-<h1 id="NLP Automation">NLP Automation</h1>
+<h2 id="NLP Automation">NLP Automation</h2>
 
 ![AWS Automation](/assets/img/uploads/automation.png "AWS Automation")
 
@@ -49,7 +49,7 @@ The end product for my automation only requires one button click, automatically 
 
 I am incredibly grateful for my mentors, manager, fellow interns, and the sea of documentations that helped me achieve this. 
 
-<h1 id="Cloud Practioner Certification">Cloud Practioner Certification</h1>
+<h2 id="Cloud Practioner Certification">Cloud Practioner Certification</h2>
 
 ![CCP](/assets/img/uploads/cert.png "CCP")
 
@@ -59,11 +59,11 @@ As an AWS employee, I was very fortunate to have the certification costs reimbur
 
 Despite taking a longer time than intended to earn the certification (Some interns took the certification within their first two weeks!), I am proud of myself for overcoming the intimidation of learning a new technology. 
 
-<h1 id="Recommendation Engine Research">Recommendation Engine Research</h1>
+<h2 id="Recommendation Engine Research">Recommendation Engine Research</h2>
 
 This was a research project for an AI/ML Consultant at AWS. I linked my research in another blogpost -- check it out here!
 
-<h1 id="That's all!">That's all!</h1>
+<h2 id="That's all!">Finishing Thoughts</h2>
 
 Overall, I learned so much cloud computing knowledge from my internship, and met many amazing people. The Leadership Principles that I have learned through the Amazonian experience have guided me to this day and will continue to benefit me in the future. (LPs are must-knows not just in Amazon interviews, but throughout your internship and career!)
 
