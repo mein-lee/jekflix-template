@@ -14,6 +14,7 @@ paginate: false
 
 > ##### The big question every data scientist should ask themselve is: "Why does it matter?" How do the analyses and predictions help the company?
 
+
 ![Screen Shot 2022-05-05 at 12 07 51 AM](https://user-images.githubusercontent.com/73072620/166876724-8cd7fe59-c9d7-4f00-8f96-f529e72fccc7.png)
 
 <a href="https://earnament.wixsite.com/earnament">Visit my website here!</a>
@@ -23,8 +24,10 @@ My small business was born amidst the height of the Covid-19 pandemic.
 I couldn't land an internship that summer, but I picked up jewelry-making as a hobby and decided to make the most out of the situation. I couldn't be an intern, so I became a small business owner -- working on everything from creating social media content, running marketing campaigns, and of course -- analyzing data and predicting consumer behavior.
 
 <b>Data Science skills used: Data collection, Data Cleaning, EDA, Regression Modeling, Label Encoding, Feature Selection, Hypothesis Testing</b>
+
 <b>Programming Tools and Software: Google Forms, Excel, Python, Pandas, scikit-learn</b>
 
+<div>
 <h2 class="toc_title">Table of Contents</h2>
 <ul class="toc_list">
   <li><a href="#Data Collection and EDA">Data Collection and EDA</a></li>
