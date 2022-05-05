@@ -26,16 +26,15 @@ paginate: false
 
 ![Racing League](/assets/img/uploads/giphy_car.gif "Racing League")
 
-That's my (simulated) car! See how smoothly it manuevers each turn? I coded that!!! :)
+AWS DeepRacer is a way of using Reinforcement Learning, an advanced machine learning technique, to train models. 
 
-AWS DeepRacer is a way of using Reinforcement Learning, an advanced machine learning technique, to train models. I coded a reward function that penalizes oe incentivizes vehicle action, fed it to a model, and trained it for 10+ hours to recorgize turning angles, avoid going off-track, find the apex of a turn, and optimize speed. I learned to read patterns from each training iteration and made changes to my model that will help my autonomous vehicle manuever more smoothly. 
+I participated in the AWS DeepRacer Intern League, where Amazon interns from all over the world train a reinforcement learning model to deploy onto an autonomous vehicle in a simulated racing environment. A big part of an RL model is the reward function which rewards the vehicle with points if it performs a correct action, such as not going off-track, or accelerating at the right time. Similarly, the vehicle is heavily rewarded for completing the track and penalized for actions such as going off track.
 
-Then, I participated in the intern league, where Amazon interns from all over the world submit their trained autonomous vehicles to compete in three simulated races. My simulated vehicle and I proudly represented team Malaysia as we ranked top 10 in the final round. 
+My strategy for the competition is to constantly examine the training metrics of rewards and track completion, then systematically tweak my reward function and fine-tune the hyperparameters. After over 10 hours of coding the reward function and iteratively training and tweaking parameters, I entered my model into the league and won top 10 based on the duration of three track completions. I was also very proud to represent team Malaysia and even more grateful for the opportunity to get my hands dirty with Reinforcement Learning.
 
 <h2 id="NLP Automation">NLP Automation</h2>
 
 ![AWS Automation](/assets/img/uploads/automation.png "AWS Automation")
-
 
 AWS Asia worked on many high-valued projects (+$100K) but there are no compilation of reports and no knowledge bank that provides advice for future project managers. 
 
