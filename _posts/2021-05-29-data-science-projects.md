@@ -30,11 +30,11 @@ This project is conducted in R using data from the 2005-06 season to 2020-21. I 
 'combined_team_vs_team_records.csv' has rows for each team in each season with columns representing matchup records against every team in the NBA in that season. For example, the 2016-17 Golden State Warriors won all four regular season matchups against the Los Angeles Clippers. Therefore the 'LAC' column of the 2016 Warriors row contains the value '4-0'.
 
 <h4>What is the regular season win percentage of Western Conference teams against the East in the 16 year window?</h4>
-<code>
+```{r}
 library(tidyverse)
 standings <- read_csv("combined_standings.csv")
 team_v_team <- read_csv("combined_team_vs_team_records.csv")
-</code>
+```
 
 
 Combine tables so we can have all of our information available in one spot. We join on team and season.
