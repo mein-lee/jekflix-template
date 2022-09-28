@@ -34,50 +34,53 @@ This project is conducted in R using data from the 2005-06 season to 2020-21. I 
 library(tidyverse)
 standings <- read_csv("combined_standings.csv")
 team_v_team <- read_csv("combined_team_vs_team_records.csv")
-```
 
-
-Combine tables so we can have all of our information available in one spot. We join on team and season.
-
-<code>
+# Combine tables so we can have all of our information available in one spot. We join on team and season.
 df = left_join(standings, team_v_team, by=c('bb_ref_team_name' = 'bb_ref_team_name', 'season'='season'))
- </code>
 
-Filtering out Eastern conference rows.
+# Filtering out Eastern conference rows.
+WestData = df %>% filter(conference=='West')
 
-<code>
-WestData = df %>%
-  filter(conference=='West')
-</code>
-  
-We get get the West team names from the 'WestData' table. Then remove columns where we have West vs. West matchups to isolate West vs. East.
-
-<code>
+# We get get the West team names from the 'WestData' table. Then remove columns where we have West vs. West matchups to isolate West vs. East.
 westTeams = unique(WestData$team_short)
 westVeast = WestData[,!(names(WestData) %in% westTeams)]
-</code>
 
-We can clean this up by isolating to a matrix solely of west vs east and correct NA's to 0-0 
-
-<code>
+# We can clean this up by isolating to a matrix solely of west vs east and correct NA's to 0-0 
 westVeast = westVeast[12:26]
 westVeast[is.na(westVeast)] = '0-0'
-</code>
 
-We're dealing with stubborn characters as our objects. For each value, we take the first and third index (corresponding to wins & losses respectively). We convert to an integer and sum across the row to get a West teams total Wins & Losses against the Eastern Conference in a given year.
-
-<code>
+# We're dealing with stubborn characters as our objects. For each value, we take the first and third index (corresponding to wins & losses respectively). We convert to an integer and sum across the row to get a West teams total Wins & Losses against the Eastern Conference in a given year.
 wins=c()
 losses=c()
 for (i in c(1:240)){
   wins[i] = sum(as.numeric(substring(westVeast[i,],1,1)))
   losses[i] = sum(as.numeric(substring(westVeast[i,1:15],3,3)))
 }
-# Get the total wins and losses and find the win percentage.
 
+# Get the total wins and losses and find the win percentage.
 westVeastWinPct = sum(wins)/sum(wins+losses)
 round(westVeastWinPct,3)*100
-</code>
+```
 
-# From 2005-06 to 2020-21, Western Conference teams won 55.7% of regular season matchups against Eastern Conference opponents.
+#### From 2005-06 to 2020-21, Western Conference teams won 55.7% of regular season matchups against Eastern Conference opponents.
+
+Let's get a sense of the consistency of the inequality. 
+
+
+We can shove the wins and losses vectors into the West table.
+
+WestData$wins = wins
+WestData$losses = losses
+We group by season and get the total wins and losses for the West against the East. If the west outperforms the East, we set 'westbetter' to 1.
+
+yearByyear = WestData %>%
+  group_by(season) %>%
+  summarise(WestvEastwins = sum(wins), 
+            WestvEastlosses = sum(losses)) %>%
+  mutate(westbetter = ifelse(WestvEastwins > WestvEastlosses, 1, 0))
+Then we can sum 'westbetter' to find the number out of the past 16 seasons.
+
+sum(yearByyear$westbetter)
+
+Western Conference teams have won more regular season games than the East in 15 out of the last 16 seasons.
 
