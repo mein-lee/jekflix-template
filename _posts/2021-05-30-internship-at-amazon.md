@@ -16,7 +16,8 @@ paginate: false
 <h2 class="toc_title">Highlighted Projects</h2>
 <ul class="toc_list">
    <li><a href="#Reinforcement Learning for Autonomous Vehicle Simulation">Reinforcement Learning for Autonomous Vehicle Simulation</a></li>
-  <li><a href="#NLP Automation">NLP Automation</a></li>
+   <li><a href="#NLP Automation">NLP Automation</a></li>
+   <li><a href="#ETL and Data Migration to AWS">ETL and Data Migration to AWS</a></li>
   <li><a href="#Cloud Practioner Certification">Cloud Practioner Certification</a></li>
   <li><a href="#Recommendation Engine Research">Recommendation Engine Research</a></li>
 </ul>
@@ -47,6 +48,18 @@ When the automation was complete, I took a few more days to ask for feedback, ma
 The end product for my automation only requires one button click, automatically categorizes projects, cuts down analysis time from weeks to within 20 minutes, and provides project managers with a quick overview of lessons learnt and advice from previous projects.
 
 I am incredibly grateful for my mentors, manager, fellow interns, and the sea of documentations that helped me achieve this. 
+
+<h2 id="#ETL and Data Migration to AWS">ETL and Data Migration to AWS</h2>
+
+<a herf="https://aws.amazon.com/blogs/big-data/migrate-terabytes-of-data-quickly-from-google-cloud-to-amazon-s3-with-aws-glue-connector-for-google-bigquery/">For this project, my team followed this documentation closely</a>
+
+I also worked on a proejct to migrate terabytes of data from Google Cloud to Amazon S3 for a major telecommunication company.
+
+Our team is tasked with building and automating an ETL process using AWS resources, with <a href="https://aws.amazon.com/glue/">AWS Glue</a> as the main component to migrate data into Amazon’s storage (S3). My role to write and validate JSON scripts that will create ETL jobs on AWS Glue. Once these scripts are developed, they will be passed to the client in order to streamline data migration processes for current and future projects. In other words, all the client would have to do is to upload the JSON file onto <a href="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html">AWS CloudFormation</a>. 
+
+My role is essential in the data migration process because I also wrote and validated multiple other JSON scripts to create various AWS resources. These resources are connected by AWS Lambda triggers not just for data migration, but also to pipeline the data as inputs into the machine learning models.
+
+Once again, I am incredibly grateful for everyone who have supported my internship journey. I started my intership with no cloud experiences, but managed to pull off two automations on the cloud thanks to all the amazing and inspirational people that I have had the priveledge to meet.
 
 <h2 id="Cloud Practioner Certification">Cloud Practioner Certification</h2>
 
