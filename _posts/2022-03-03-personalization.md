@@ -2,7 +2,7 @@
 date: 2022-08-01 12:00:00
 layout: post
 title: This is your sign to personalize your products or services using ML 
-subtitle: This is your sign to personalize your products or services using ML 
+subtitle: I talk about how I personalized discounts for 1 Million Jo-Ann Store customers during my summer internship 
 description: I talk about how I personalized discounts for 1 Million Jo-Ann Store customers during my summer internship 
 image: /assets/img/uploads/personalize.jpeg
 optimized_image: /assets/img/uploads/personalize.jpeg
