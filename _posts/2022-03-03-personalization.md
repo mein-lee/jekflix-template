@@ -8,9 +8,6 @@ image: /assets/img/uploads/personalize.jpeg
 optimized_image: /assets/img/uploads/personalize.jpeg
 category: datascience
 tags:
-  - datascience
-  - machinelearning
-  - internship
 author: meinlee
 paginate: false
 ---
