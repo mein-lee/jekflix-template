@@ -53,13 +53,13 @@ I am incredibly grateful for my mentors, manager, fellow interns, and the sea of
 
 <a herf="https://aws.amazon.com/blogs/big-data/migrate-terabytes-of-data-quickly-from-google-cloud-to-amazon-s3-with-aws-glue-connector-for-google-bigquery/">For this project, my team followed this documentation closely</a>
 
-I also worked on a proejct to migrate terabytes of data from Google Cloud to Amazon S3 for a major telecommunication company.
+Along with a team of solution architects and AI/ML enginners, I worked on a project to migrate terabytes of data from Google Cloud to Amazon S3 for a major telecommunication company.
 
-Our team is tasked with building and automating an ETL process using AWS resources, with <a href="https://aws.amazon.com/glue/">AWS Glue</a> as the main component to migrate data into Amazon’s storage (S3). My role to write and validate JSON scripts that will create ETL jobs on AWS Glue. Once these scripts are developed, they will be passed to the client in order to streamline data migration processes for current and future projects. In other words, all the client would have to do is to upload the JSON file onto <a href="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html">AWS CloudFormation</a>. 
+Our team was tasked with building and automating an ETL process using AWS resources, using <a href="https://aws.amazon.com/glue/">AWS Glue</a> as the main component to migrate data into Amazon’s storage (<a href="https://aws.amazon.com/s3/">S3</a>). My role was to write and validate JSON scripts that will create ETL jobs on AWS Glue. After the scripts were developed, we sent them to our client to streamline current and future data migration processes. In other words, all the client would have to do is upload the JSON file onto <a href="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html">AWS CloudFormation</a>. 
 
-My role is essential in the data migration process because I also wrote and validated multiple other JSON scripts to create various AWS resources. These resources are connected by AWS Lambda triggers not just for data migration, but also to pipeline the data as inputs into the machine learning models.
+My role was essential in the data migration process because the JSON scripts contain essential and detailed information on how the cloud resources were going to be set up. (Many security settings and configurations tailored towards the client's needs). These resources were connected by <a href="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-lambda-function.html">AWS Lambda functions</a>, not just for data migration, but also to pipeline data as inputs into machine learning models.
 
-Once again, I am incredibly grateful for everyone who have supported my internship journey. I started my intership with no cloud experiences, but managed to pull off two automations on the cloud thanks to all the amazing and inspirational people that I have had the priveledge to meet.
+Once again, I am incredibly grateful for everyone who have supported my internship journey. I started my intership with no cloud experience, but participated in two cloud automations --  thanks to the amazing and inspiring people that I have had the priveledge to meet.
 
 <h2 id="Cloud Practioner Certification">Cloud Practioner Certification</h2>
 
@@ -79,7 +79,7 @@ This was a research project for an AI/ML Consultant at AWS. I linked my research
 
 Overall, I learned so much cloud computing knowledge from my internship, and met many amazing people. The Leadership Principles that I have learned through the Amazonian experience have guided me to this day and will continue to benefit me in the future. (LPs are must-knows not just in Amazon interviews, but throughout your internship and career!)
 
-As the first intern cohort of AWS Malaysia, I am proud to have set the bar for future interns. My only feedback is that it could have been a more structured program. For example, a planned out 3-month project for the interns with set guidelines and expectations. Regardless, the support and mentorship that I have received was phenomenal! Everyone works hard to be the best leaders in their role, but also geniunely wants to see each other succeed. 
+As the first intern cohort of AWS Malaysia, I am proud to have set the bar for future interns. My only feedback is that it could have been a more structured program. For example, a planned out 3-month project for the interns with predefined guidelines and expectations. Regardless, the support and mentorship that I have received was phenomenal! Everyone works hard to be the best leaders in their role, but also geniunely wants to see each other succeed. 
 
 That is all! If you would like to learn more about what I worked on during my internship, or would like to talk about anything else, please reach out to me!
 
