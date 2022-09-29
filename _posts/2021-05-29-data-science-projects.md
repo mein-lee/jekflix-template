@@ -27,3 +27,4 @@ I also recommended machine learning models to help make data-driven decisions wi
 <a href="https://github.com/mein-lee/NBA_conference_disparity">Check out my Github here! </a>
 
 <h2 id="More Coming!">More Coming!</h2>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfh1Kx8ftMOR92ijcBb_-K2OAv2XAnQlWChwuBG2vTGkkBeuQ/viewform?usp=sf_link">Sign up for my mailing list for post updates!</a>
