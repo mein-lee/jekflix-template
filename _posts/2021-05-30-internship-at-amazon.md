@@ -49,9 +49,10 @@ The end product for my automation only requires one button click, automatically 
 
 I am incredibly grateful for my mentors, manager, fellow interns, and the sea of documentations that helped me achieve this. 
 
-<h2 id="#ETL and Data Migration to AWS">ETL and Data Migration to AWS</h2>
+<h2 id="ETL and Data Migration to AWS">ETL and Data Migration to AWS</h2>
 
-<a herf="https://aws.amazon.com/blogs/big-data/migrate-terabytes-of-data-quickly-from-google-cloud-to-amazon-s3-with-aws-glue-connector-for-google-bigquery/">For this project, my team followed this documentation closely</a>
+<a herf="https://aws.amazon.com/blogs/big-data/migrate-terabytes-of-data-quickly-from-google-cloud-to-amazon-s3-with-aws-glue-connector-for-google-bigquery/">Migrate terabytes of data quickly from Google Cloud to Amazon S3 with AWS Glue Connector for Google BigQuery</a>
+For this project, my team followed this documentation closely.
 
 Along with a team of solution architects and AI/ML enginners, I worked on a project to migrate terabytes of data from Google Cloud to Amazon S3 for a major telecommunication company.
 
