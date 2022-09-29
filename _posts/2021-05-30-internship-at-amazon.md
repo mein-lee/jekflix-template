@@ -84,5 +84,5 @@ As the first intern cohort of AWS Malaysia, I am proud to have set the bar for f
 
 That is all! If you would like to learn more about what I worked on during my internship, or would like to talk about anything else, please reach out to me!
 
-[Sign up for my mailing list](https://meinlee.netlify.app/contact/) to stay updated.
+[Sign up for my mailing list](https://docs.google.com/forms/d/e/1FAIpQLSfh1Kx8ftMOR92ijcBb_-K2OAv2XAnQlWChwuBG2vTGkkBeuQ/viewform?usp=sf_link) to stay updated.
 
