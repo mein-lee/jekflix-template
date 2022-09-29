@@ -67,3 +67,6 @@ We impressed the judges with our creativity and technical skills -- earning ours
 
 <h2 id="IMDB Movies">IMDB Movies</h2>
 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfh1Kx8ftMOR92ijcBb_-K2OAv2XAnQlWChwuBG2vTGkkBeuQ/viewform?usp=sf_link">Sign up for my mailing list for post updates!</a>
+
+
