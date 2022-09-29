@@ -3,14 +3,14 @@ date: 2022-08-01 12:00:00
 layout: post
 title: This is your sign to personalize your products or services using ML 
 subtitle: This is your sign to personalize your products or services using ML 
-description: Talk about how I personalized discounts for 1 Million Jo-Ann Store customers during my summer internship 
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824822/theme15_oqsl4z.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824822/theme15_oqsl4z.jpg
+description: I talk about how I personalized discounts for 1 Million Jo-Ann Store customers during my summer internship 
+image: /assets/img/uploads/personalize.jpeg
+optimized_image: /assets/img/uploads/personalize.jpeg
 category: datascience
 tags:
   - datascience
-  - band
-  - passion
+  - machinelearning
+  - internship
 author: meinlee
 ---
 
