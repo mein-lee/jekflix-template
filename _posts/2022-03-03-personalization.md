@@ -43,7 +43,7 @@ In fact, 78% of customers expect personalization, and 71% of customers are more 
 
 Many companies have successfully implemented personalization strategies in their phone apps -- HelloFresh, Starbucks, Target, Puma, etc. The benefits of personalization can be summarized into four areas, represented by the blue arrows: 
 
-![Benefits](/assets/img/uploads/benefits.jpg "Benefits")
+![Benefits](/assets/img/uploads/benefits.png "Benefits")
 
 This is the reason why Puma, for example, created email optimization marketing campaigns and ultimately achieved 5x Email-Attributed Revenue in 6 Months. 
  
@@ -102,5 +102,29 @@ Theoretically, the steps for A/B testing are
 
 ### In Progress! Updating Soon! Interested in this post? 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfh1Kx8ftMOR92ijcBb_-K2OAv2XAnQlWChwuBG2vTGkkBeuQ/viewform?usp=sf_link">Sign up for my mailing list for updates!</a>
+
+<div id="toc_container">
+<h2 class="toc_title">Table of Contents</h2>
+<ul class="toc_list">
+  <li><a href="#Acknowledgements">Back to Top</a></li>
+  <li><a href="#Acknowledgements">Acknowledgements</a></li>
+   <li><a href="#Project Inspiration and Research">Project Inspiration and Research</a></li>
+   <li><a href="#Working in Cross-Functional Teams">Working in Cross-Functional Teams</a></li>
+   <li><a href="#Data Cleaning & Data Engineering">Data Cleaning & Data Engineering</a></li>
+  <li><a href="#Building the Model">Building the Model</a></li>
+  <li><a href="#A/B Testing">A/B Testing</a></li>
+  <li><a href="#Implementation and Presentation">Implementation and Presentation</a></li>
+  <li><a href="#Closing Thoughts">Closing Thoughts</a></li>
+</ul>
+</div>
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 
