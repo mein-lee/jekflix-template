@@ -21,7 +21,7 @@ paginate: false
    <li><a href="#Data Cleaning & Data Engineering">Data Cleaning & Data Engineering</a></li>
   <li><a href="#Building the Model">Building the Model</a></li>
   <li><a href="#A/B Testing">A/B Testing</a></li>
-  <li><a href="#Implementation and Presentation">Implementation and Presentation</a></li>
+  <li><a href="#Results and Presentation">Results and Presentation</a></li>
   <li><a href="#Closing Thoughts">Closing Thoughts</a></li>
 </ul>
 </div>
@@ -85,23 +85,55 @@ Now that each person is assigned a discount, I wanted to predict how likely woul
 
 In hindsight, perhaps 100+ features is an overkill. After applying the RFECV (Recursive Feature Elimination, Cross-Validated) sklearn package and Principal Component Analysis to the features, only 10% of them were chosen for optimal model performance. I guess that made sense since many transactional data were calculated from each other and probably correlate with each other. 
 
-Between Random Forest and Logistic Regression, Random Forest reported a better precision, recall, and F1 score on the testing set. 
+Between Random Forest and Logistic Regression, Random Forest reported a 90% accuracy, and better precision, recall, and F1 score on the testing set. 
 
 ![Discount Predictions](/assets/img/uploads/discount_pred.jpg "Discount Predictions")
 
 <h2 id="A/B Testing">A/B Testing</h2>
 
-Theoretically, the steps for A/B testing are
-1) Determine evaluation metric
-2) Determine significance level and sample size
-3) Decide the timeframe 
-4) Coordinate implementation with Engineering & Marketing 
-5) Randomly assign into control and treatment 
-6) Check assumptions
-7) Measure and analyze results 
+Theoretically, the steps for A/B testing are:
+<li>1) Determine evaluation metric</li>
+<li>2) Determine significance level and sample size</li>
+<li>3) Decide the timeframe</li>
+<li>4) Coordinate implementation with Engineering & Marketing</li> 
+<li>5) Randomly assign into control and treatment</li> 
+<li>6) Check assumptions</li>
+<li>7) Measure and analyze results, calculate significance</li>
 
-### In Progress! Updating Soon! Interested in this post? 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfh1Kx8ftMOR92ijcBb_-K2OAv2XAnQlWChwuBG2vTGkkBeuQ/viewform?usp=sf_link">Sign up for my mailing list for updates!</a>
+Although I followed these steps, there are other things I learned that are important in this process. 
+
+First, it’s important to discuss with managers and stakeholders to identify the success metrics that they expect to see. In my project’s case, it is a certain percentage of sales lift. Similarly, the timeframe and sample size could be determined mathematically, but the urgency of the project and the cost of testing could very much affect the timing and sample size of the A/B test. It’s important to have conversations with my team and relevant stakeholders to find a middle ground that doesn't affect the significance of the test but also doesn’t come at a high cost to the company.
+
+Second, randomization helps to reduce bias – I made extra sure that treatments are consistent but randomized. Another way I reduced bias was to get rid of confounding factors. We avoided the weekend before and on the 4th of July because purchasing behaviors are starkly different during holidays.
+
+Third, make sure that data pipelines are set up and real-time data from the A/B test is ready to be queried and analyzed accurately. For example, I kept a record of the 1 Million customerID’s their assigned discounts, and whether they were in the treatment (personalized) or control (no personalization) group. If I forgot to keep track during the randomization process, I would not have a way to calculate the test statistic of each group.
+
+As I list the things that I’ve learned from just two weeks of A/B testing, I realize that I could go on and on. It is an important procedure in many data science projects; it sounds simple but has many crucial details that are easily overlooked. Feel free to contact me on LinkedIn or by email if you want to chat about it!
+
+<h2 id="Results and Presentation">Results and Presentation</h2>
+
+![A/B Test](/assets/img/uploads/ab_test.jpg "A/B Test")
+
+There is almost a 40% increase in Average Spend with personalization. I ran a z-test to check for statistical and practical significance. 
+
+Looking at the company's numbers, we estimated over a million increase in sales by personalizing discounts to customers. Given more time, more data, and a better model, this number could only increase.
+
+At the end of my internship, I gave a 10-minute presentation to C-Suite executives, including the CEO himself, who turned, looked around the room mid-presentation, and said: “we gotta stop giving the wrong discounts!”
+
+Today, the Data Science team is expanding on the personalization strategy to provide a better shopping experience for their customers. 
+
+![Presentation](/assets/img/uploads/presentation_internship.png "Presentation")
+
+<h2 id="Closing Thoughts">Closing Thoughts</h2>
+
+Moving forward, what does this mean? 
+
+This project is one of the first personalization initiatives and has shown to benefit both the company and its customers, so I recommended further action to be taken and expanding this strategy to larger channels and larger audiences. For example, testing on discount amounts beyond 0,20,25%, testing on a larger sample and venturing into different discount types (BOGO, bundle sales, free shipping, etc.).
+
+If you made it to the end of the post – thank you! If you are someone who assisted me – in any way – during my internship, I can’t express how grateful I am for this amazing summer opportunity.  I’m excited to apply my skills to future projects, and it’s all thanks to my amazing support system!
+
+### Interested in similar posts? Want to leave a comment?
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfh1Kx8ftMOR92ijcBb_-K2OAv2XAnQlWChwuBG2vTGkkBeuQ/viewform?usp=sf_link">Sign up for my mailing list for updates or to be contacted!</a>
 
 <div id="toc_container">
 <h2 class="toc_title">Table of Contents</h2>
@@ -113,7 +145,7 @@ Theoretically, the steps for A/B testing are
    <li><a href="#Data Cleaning & Data Engineering">Data Cleaning & Data Engineering</a></li>
   <li><a href="#Building the Model">Building the Model</a></li>
   <li><a href="#A/B Testing">A/B Testing</a></li>
-  <li><a href="#Implementation and Presentation">Implementation and Presentation</a></li>
+  <li><a href="#Results and Presentation">Results and Presentation</a></li>
   <li><a href="#Closing Thoughts">Closing Thoughts</a></li>
 </ul>
 </div>
@@ -135,5 +167,6 @@ Theoretically, the steps for A/B testing are
 <br>
 <br>
 <br>
+
 
 
