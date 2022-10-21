@@ -99,6 +99,8 @@ The table below shows the discount assigned to each customer, the method of outr
 
 <h2 id="A/B Testing">A/B Testing</h2>
 
+A/B testing refers to a randomized experimentation process wherein two or more versions of a variable (in this case, personalization vs no personalization) are shown to different groups of customers at the same time to determine which version leaves the maximum impact and drives business metrics.
+
 Theoretically, the steps for A/B testing are:
 <ol>
 <li>Determine evaluation metric</li>
