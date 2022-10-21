@@ -91,7 +91,7 @@ In hindsight, perhaps 100+ features is an overkill. After applying the <i>Recurs
 
 However, I was glad to notice some features that I spent extra time building (e.g., time elapsed between first and second discount) as one of the top features. So, it was definitely with <i>some</i> time to perform feature engineering.
 
-The second step was to pick the best model. Between Random Forest and Logistic Regression, Random Forest reported a 90% accuracy, and better precision, recall, and F1 score on the testing set. For future projects, I would like to experiment with an ensemble of different models and see how much better the ensemble method would perform. 
+The second step was to pick the best model. Between Random Forest and Logistic Regression, Random Forest reported a 90% test accuracy, and better precision, recall, and F1 score on the testing set. For future projects, I would like to experiment with an ensemble of different models to evaluate how much better the ensemble method would perform. 
 
 The table below shows the discount assigned to each customer, the method of outreach (app or email notifications), and the chance of that customer engaging with the discount. 
 
@@ -118,9 +118,9 @@ First, it is important to discuss with managers and stakeholders to identify the
 
 Second, randomization helps to reduce bias – I made extra sure that treatments are consistent but randomized. Another way to reduced bias was to get rid of confounding factors. We avoided the weekend before and on the 4th of July because purchasing behaviors are starkly different during holidays.
 
-Third, make sure that data pipelines are set up and real-time data from the A/B test is ready to be queried and analyzed accurately. For example, I kept a record of the 1 Million customerID’s their assigned discounts, and whether they were in the treatment (personalized) or control (no personalization) group. If I forgot to keep track during the randomization process, I would not have a way to calculate the test statistic of each group.
+Third, make sure that data pipelines are set up and real-time data from the A/B test is ready to be queried and analyzed accurately. For example, I kept a record of the 1 Million customerID’s, their assigned discounts, and whether they were in the treatment (personalized) or control (no personalization) group. If I had not kept track during the randomization process, I would not have a way to calculate the test statistic of each group.
 
-As I list the things that I’ve learned from just two weeks of A/B testing, I realized that I could go on and on. It is an important procedure in many data science projects; it sounds simple but has many crucial details that are easily overlooked. Feel free to contact me on LinkedIn or by email if you want to chat about it!
+As I list the things that I’ve learned from just two weeks of A/B testing, I realized that I could go on and on. A/B Testing sounds simple, but it's easy to overlook many crucial details. Feel free to contact me on LinkedIn or by email if you want to chat about it!
 
 <h2 id="Results and Presentation">Results and Presentation</h2>
 
@@ -132,7 +132,7 @@ Looking at the company's numbers, we estimated over a million dollars increase i
 
 At the end of my internship, I gave a 10-minute presentation to a group of C-Suite executives, including the CEO himself, who turned, looked around the room mid-presentation, and said: “we gotta stop giving the wrong discounts!”
 
-Today, the Data Science team is expanding on the personalization strategy to provide a better shopping experience for their customers. 
+Today, the Data Science team is expanding on the personalization strategy to provide a better shopping experiences for their customers. 
 
 <h2 id="Closing Thoughts">Closing Thoughts</h2>
 
