@@ -65,12 +65,12 @@ The features below were among the 100+ features that were queried and built usin
 
 Although it may be tiring to stare at SQL queries all day – I got my very first pair of blue light glasses cus’ my eyes started hurting – getting hands-on experiences with SQL tricks like views, pivots, window functions, and subqueries was pretty cool.
 
-Then came the important part (yes, very important, as repeated over and over again by university professors and tech bloggers) – data cleaning and preprocessing. I encoded and normalized many features to get them into a clean format. Some of the cleaning work were performed simultaneously when I built the features on SQL Server. I also narrowed it down to 1 (out of 70) Million <i>active</i> customers only, meaning that at least I didn’t have to worry about sparse* data (
+Then came the important part (yes, very important, as repeated over and over again by university professors and tech bloggers) – data cleaning and preprocessing. I encoded and normalized many features to get them into a clean format. Some of the cleaning work were performed simultaneously when I built the features on SQL Server. I also narrowed it down to 1 (out of 70) Million <i>active</i> customers only, meaning that at least I didn’t have to worry about sparse* data 
 
 However, I had to deal with skewed* data which was resolved through resampling.
 
-* sparse data: data with alot of null values.
-* skewed data: distorted/assymetrical data, for example if the output data has much more 1's than 0's
+*sparse data: data with alot of null values.
+*skewed data: distorted/assymetrical data, for example if the output data has much more 1's than 0's
 
 <h2 id="Building and Evaluting the Model">Building and Evaluating the Model</h2>
 
