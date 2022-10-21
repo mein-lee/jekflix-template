@@ -51,7 +51,7 @@ This is the reason why Puma, for example, created email optimization marketing c
 
 Working in cross-functional teams is a highly transferable skill because it demands communication, collaboration, and sometimes even negotiation with people from different professional backgrounds. 
 
-Generating personalization discounts is great, but useless if I can’t test it on real customers. This requires the marketing team’s help to push out discount notifications to email subscribers and app users, so I created a detailed project proposal to convince them that the time and energy that they will invest in my project is worth it. The proposal also includes a strict timeline, proposed results, and how my project will benefit their existing marketing strategies. 
+Generating personalization discounts is great, but useless if I can’t test it on real customers. This requires the marketing team’s help to push out discount notifications to email subscribers and app users, so I created a detailed project proposal to convince them that the time and energy that they will invest in my project is worth it. The proposal also included a strict timeline, proposed results, and how my project will benefit their existing marketing strategies. 
 
 After many rounds of research and discussion, I finally got the green light to start building the model!
 
@@ -93,7 +93,7 @@ However, I was glad to notice some features that I spent extra time building (e.
 
 The second step was to pick the best model. Between Random Forest and Logistic Regression, Random Forest reported a 90% accuracy, and better precision, recall, and F1 score on the testing set. For future projects, I would like to experiment with an ensemble of different models and see how much better the ensemble method would perform. 
 
-The table below shows the discount assigned to each customer, the method of outreach (app or email notifications), and the chance of engaging with the discount. 
+The table below shows the discount assigned to each customer, the method of outreach (app or email notifications), and the chance of that customer engaging with the discount. 
 
 ![Discount Predictions](/assets/img/uploads/discount_pred.jpg "Discount Predictions")
 
