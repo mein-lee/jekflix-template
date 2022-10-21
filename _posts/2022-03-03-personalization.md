@@ -59,7 +59,7 @@ In classes, the start of the project is <i>import pandas as pd</i>. In the indus
 
 <h2 id="Data Cleaning and Feature Engineering">Data Cleaning and Feature Engineering</h2>
 
-The features below were among the 100+ features that were queried and built using SQL for the 1 Million customers that I plan to test on. Some features are basic demographic data that were readily available in the database (e.g. age and education level), and some required more engineering and aggreatation of multiple soures of data. For example, the time elapsed between their first and second interaction with a discount. 
+The features below were among the 100+ features that were queried and built using SQL for the 1 Million customers that I plan to test on. Some features are basic demographic data that were readily available in the database (e.g. age and education level), and some required more engineering and aggregation of multiple soures of data. For example, the time elapsed between their first and second interaction with a discount. 
 
 ![Data Inputs](/assets/img/uploads/data_inputs.jpg "Data Inputs")
 
@@ -82,9 +82,9 @@ In order to determine the best assignment for each customer, I calculated the Co
 
 ![CATE Table](/assets/img/uploads/CATE_table.jpg "CATE Table")
 
-Following the discount assingments, I built a second model to predict how likely each customer would actually use the discount. The first step was to determine which features among the the 100+ that I mentioned above were actually useful to the model.
+Following the discount assignments, I built a second model to predict how likely each customer would actually use the discount. The first step was to determine which features among the the 100+ that I mentioned above were actually useful to the model.
 
-In hindsight, perhaps 100+ features is an overkill. After applying the RFECV (Recursive Feature Elimination, Cross-Validated) sklearn package and Principal Component Analysis to the features, only ~10% of them were chosen for optimal model performance. That made sense since many transactional data were calculated from each other and were probably highly correlated with each other. 
+In hindsight, perhaps 100+ features is an overkill. After applying the <i>Recursive Feature Elimination, Cross-Validated</i> (RFECV) sklearn package and Principal Component Analysis to the features, only ~10% of them were chosen for optimal model performance. That made sense since many transactional data were calculated from each other and were probably highly correlated with each other. 
 
 However, I was glad to notice some features that I spent extra time building (e.g., time elapsed between first and second discount) as one of the top features. So, it was definitely with <i>some</i> time to perform feature engineering.
 
