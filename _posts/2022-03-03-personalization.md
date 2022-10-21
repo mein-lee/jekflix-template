@@ -55,7 +55,7 @@ Generating personalization discounts is great, but useless if I can’t test it 
 
 After many rounds of research and discussion, I finally got the green light to start building the model!
 
-In classes, the start of the project is <i>import pandas as pd</i>. In the industry, the start of a project involves crucial soft skills such as communication and collaboration.
+In classes, the start of the project is <i>import pandas as pd</i>. In the industry, the start of a project involves crucial soft skills such as planning, communication, and collaboration.
 
 <h2 id="Data Cleaning and Feature Engineering">Data Cleaning and Feature Engineering</h2>
 
