@@ -73,8 +73,8 @@ However, I had to deal with skewed data which was resolved through resampling.
 
 There are two stages in this phase:
 <ol>
-<li>1) Assigning discounts to each customer based on their transactional history</li>
-<li>2) Predicting engagement with the assigned discount and making necessary changes </li>
+<li>Assigning discounts to each customer based on their transactional history</li>
+<li>Predicting engagement with the assigned discount and making necessary changes </li>
 </ol>
 First, the goal was to predict which discount among No Discount (0%), 20%, and 25% should be assigned to each customer, and these amounts were chosen because it was the most frequently used discounts, hence more transactional data to work with. 
 
@@ -96,13 +96,13 @@ The second step was to pick the best model. Between Random Forest and Logistic R
 
 Theoretically, the steps for A/B testing are:
 <ol>
-<li>1) Determine evaluation metric</li>
-<li>2) Determine significance level and sample size</li>
-<li>3) Decide the timeframe</li>
-<li>4) Coordinate implementation with Engineering & Marketing</li> 
-<li>5) Randomly assign into control and treatment</li> 
-<li>6) Check assumptions</li>
-<li>7) Measure and analyze results, calculate significance</li>
+<li>Determine evaluation metric</li>
+<li>Determine significance level and sample size</li>
+<li>Decide the timeframe</li>
+<li>Coordinate implementation with Engineering & Marketing</li> 
+<li>Randomly assign into control and treatment</li> 
+<li>Check assumptions</li>
+<li>Measure and analyze results, calculate significance</li>
  </ol>
 
 Although I followed these steps, there are other things I learned that are important in this process. 
@@ -127,7 +127,7 @@ At the end of my internship, I gave a 10-minute presentation to a group of C-Sui
 
 Today, the Data Science team is expanding on the personalization strategy to provide a better shopping experience for their customers. 
 
-![Presentation](/assets/img/uploads/presentation_internship.png "Presentation")
+< ! ╌ [Presentation](/assets/img/uploads/presentation_internship.png "Presentation")╌>!
 
 <h2 id="Closing Thoughts">Closing Thoughts</h2>
 
