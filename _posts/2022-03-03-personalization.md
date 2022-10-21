@@ -18,7 +18,7 @@ paginate: false
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
    <li><a href="#Project Inspiration and Research">Project Inspiration and Research</a></li>
    <li><a href="#Working in Cross-Functional Teams">Working in Cross-Functional Teams</a></li>
-   <li><a href="#Data Cleaning & Feature Engineering">Data Cleaning & Feature Engineering</a></li>
+   <li><a href="#Data Cleaning and Feature Engineering">Data Cleaning and Feature Engineering</a></li>
   <li><a href="#Building and Evaluting the Model">Building and Evaluting the Model</a></li>
   <li><a href="#A/B Testing">A/B Testing</a></li>
   <li><a href="#Results and Presentation">Results and Presentation</a></li>
@@ -57,7 +57,7 @@ After many rounds of research and discussion, I finally got the green light to s
 
 In classes, the start of the project is <i>import pandas as pd</i>. In the industry, the start of a project involves crucial soft skills such as communication and collaboration.
 
-<h2 id="Data Cleaning & Feature Engineering">Data Cleaning & Feature Engineering</h2>
+<h2 id="Data Cleaning and Feature Engineering">Data Cleaning and Feature Engineering</h2>
 
 The features below were among the 100+ features that were queried and built using SQL for the 1 Million customers that I plan to test on. Some features are basic demographic data that were readily available in the database (e.g. age and education level), and some required more engineering and aggreatation of multiple soures of data. For example, the time elapsed between their first and second interaction with a discount. 
 
@@ -69,7 +69,7 @@ Then came the important part (yes, very important, as repeated over and over aga
 
 However, I had to deal with skewed data which was resolved through resampling.
 
-<h2 id="Building and Evaluting the Model">Building the Model</h2>
+<h2 id="Building and Evaluting the Model">Building and Evaluating the Model</h2>
 
 There are two stages in this phase:
 <ol>
@@ -147,7 +147,7 @@ If you made it to the end of the post – thank you! If you are someone who assi
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
    <li><a href="#Project Inspiration and Research">Project Inspiration and Research</a></li>
    <li><a href="#Working in Cross-Functional Teams">Working in Cross-Functional Teams</a></li>
-   <li><a href="#Data Cleaning & Feature Engineering">Data Cleaning & Feature Engineering</a></li>
+   <li><a href="#Data Cleaning and Feature Engineering">Data Cleaning and Feature Engineering</a></li>
   <li><a href="#Building and Evaluting the Model">Building and Evaluting the Model</a></li>
   <li><a href="#A/B Testing">A/B Testing</a></li>
   <li><a href="#Results and Presentation">Results and Presentation</a></li>
