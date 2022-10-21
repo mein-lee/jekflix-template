@@ -127,8 +127,6 @@ At the end of my internship, I gave a 10-minute presentation to a group of C-Sui
 
 Today, the Data Science team is expanding on the personalization strategy to provide a better shopping experience for their customers. 
 
-< ! ╌ [Presentation](/assets/img/uploads/presentation_internship.png "Presentation")╌>!
-
 <h2 id="Closing Thoughts">Closing Thoughts</h2>
 
 Moving forward, what does this mean? 
