@@ -1,5 +1,5 @@
 ---
-date: 2020-10-29 08:57:37
+date: 2022-07-30 08:57:37
 layout: post
 title: "Data Science & Analytics Projects"
 subtitle: Brief overview of my Data Science & Analytics Projects.
