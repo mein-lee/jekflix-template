@@ -48,9 +48,15 @@ To learn more about this project, <a href="https://github.com/mein-lee/NBA_confe
 
 <h2 id="Analyzing Public Baseball Database">Analyzing Public Baseball Database</h2>
 
+Coming Soon!
+
 <h2 id="Establishing Causal Relationship between Government Infrastructure Investments and Unemployment Rates">Establishing Causal Relationship between Government Infrastructure Investments and Unemployment Rates</h2>
 
+Coming Soon!
+
 <h2 id="Sentiment Analysis of AOC, Elon Musk, and Cristiano Ronaldo Tweets">Sentiment Analysis of AOC, Elon Musk, and Cristiano Ronaldo Tweets</h2>
+
+Coming Soon!
 
 <h2 id="More Coming!">More Coming!</h2>
 
