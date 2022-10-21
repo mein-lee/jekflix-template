@@ -90,6 +90,8 @@ However, I was glad to notice some features that I spent extra time building (e.
 
 The second step was to pick the best model. Between Random Forest and Logistic Regression, Random Forest reported a 90% accuracy, and better precision, recall, and F1 score on the testing set. For future projects, I would like to experiment with an ensemble of different models and see how much better the ensemble method would perform. 
 
+The table below shows the discount assigned to each customer, the method of outreach (app or email notifications), and the chance of engaging with the discount. 
+
 ![Discount Predictions](/assets/img/uploads/discount_pred.jpg "Discount Predictions")
 
 <h2 id="A/B Testing">A/B Testing</h2>
